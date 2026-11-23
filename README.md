@@ -1,8 +1,8 @@
 # Six Words, One Story
 
 [![Six Words, One Story](https://make.fun/badge/u-deranalabs-six-words-one-story-f982e410.svg)](https://make.fun/competitions/u-deranalabs-six-words-one-story-f982e410)
-[![Rank](https://make.fun/badge/u-deranalabs-six-words-one-story-f982e410/muhamadyusufseptian6-lab/makefun-six-words-one-story-f982e410/rank.svg)](https://make.fun/competitions/u-deranalabs-six-words-one-story-f982e410)
-[![Reward](https://make.fun/badge/u-deranalabs-six-words-one-story-f982e410/muhamadyusufseptian6-lab/makefun-six-words-one-story-f982e410/reward.svg)](https://make.fun/competitions/u-deranalabs-six-words-one-story-f982e410)
+[![Rank](https://make.fun/badge/u-deranalabs-six-words-one-story-f982e410/muhamadyusufseptian6-lab/makefun-u-deranalabs-six-words-one-story-f982e410/rank.svg)](https://make.fun/competitions/u-deranalabs-six-words-one-story-f982e410)
+[![Reward](https://make.fun/badge/u-deranalabs-six-words-one-story-f982e410/muhamadyusufseptian6-lab/makefun-u-deranalabs-six-words-one-story-f982e410/reward.svg)](https://make.fun/competitions/u-deranalabs-six-words-one-story-f982e410)
 
 A complete story told in exactly six words, written by a small deterministic
 Node program that writes the story to `/output/entry.txt`.
